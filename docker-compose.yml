@@ -13,6 +13,8 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - /usr/local/portainer/data:/data
+    environment:
+      - TZ=Asia/Shanghai
     networks:
       - caddy-network
 
