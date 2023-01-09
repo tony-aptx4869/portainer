@@ -1,5 +1,5 @@
 利用 docker-compose 部署 Portainer
-Deploy Portainer Using docker-compose
+| Deploy Portainer Using docker-compose
 =======================================
 
 快速利用 docker-compose 来部署 Portainer。
